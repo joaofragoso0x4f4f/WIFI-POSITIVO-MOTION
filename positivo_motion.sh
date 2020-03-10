@@ -2,7 +2,6 @@
 #instalador wifi da série positivo-motion
 #Apesar de ser testando no i3464A ele funciona em todos os notebooks positivo da serie motion pelo fato da placa wifi ser a mesma.
 
-running=$'1'
 root=$'0'
 ID=${UID}
 
